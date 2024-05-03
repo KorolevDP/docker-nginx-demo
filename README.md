@@ -1,2 +1,2 @@
-Project for testing nginx with docker-compose.
-Include static dir with html page.
+Project for testing nginx with docker-compose.  
+Including static dir with html page.
